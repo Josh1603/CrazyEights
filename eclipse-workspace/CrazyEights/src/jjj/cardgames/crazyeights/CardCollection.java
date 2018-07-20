@@ -59,7 +59,6 @@ public class CardCollection {
   /**
    * Returns the card's index within the collection.
    */
-  
   public int getCardIndex(Card card) {
     return cards.indexOf(card);
   }
