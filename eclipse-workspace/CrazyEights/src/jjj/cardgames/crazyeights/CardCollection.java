@@ -148,7 +148,7 @@ public class CardCollection {
   }
 
   /**
-   * Randomly permute the cards.
+   * Randomly permutes the cards.
    */
   public void shuffle() {
     Random random = new Random();
